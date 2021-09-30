@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Putkaposti Vuoristorata.
+Putkaposti Vuoristorata, https://www.ohjelmointiputka.net/postit/tehtava.php?tunnus=vrata
 
 Pisin näkee aina junasta. Toiseksi pisin näkee junasta puolissa tapauksissa.
 On yhtä todennäköistä, että hän on pisimmän edessä tai takana. Kolmanneksi
